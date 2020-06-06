@@ -1,5 +1,6 @@
 #include <iostream>
 
-int main() {
+int main()
+{
   std::cout<<"H\ne\nl\nl\no\n\nw\no\nr\nl\nd\n!";
 }
